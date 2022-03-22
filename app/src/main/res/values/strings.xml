@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To Do List App Kotlin</string>
+    <string name="add_note">add_note</string>
+    <string name="to_do_list_app">To Do List App</string>
+    <string name="save">Save</string>
+    <string name="hint">Enter your note</string>
+    <string name="empty_not_saved">Note not saved because it is empty.</string>
+</resources>
